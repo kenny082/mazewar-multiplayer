@@ -1,0 +1,7 @@
+login C Cindy
+expect clear
+expect show
+expect score
+left
+expect clear
+expect show

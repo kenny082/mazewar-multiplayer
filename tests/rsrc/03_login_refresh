@@ -1,0 +1,7 @@
+login B Bob
+expect clear
+expect show
+expect score
+refresh
+expect clear
+expect show
