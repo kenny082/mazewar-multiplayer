@@ -72,7 +72,7 @@ util/gclient -p 3333 [-a <Avatar>] [-u <Username>]
 Example:
 
 ```bash
-util/gclient -p 3333 -a Z -u Kenny
+util/gclient -p 3333 -a K -u Kenny 
 ```
 
 - `-a` specifies the avatar character (one letter)
